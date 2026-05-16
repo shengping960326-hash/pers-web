@@ -1,0 +1,6 @@
+{
+  "name": "Andrew's Portfolio",
+  "description": "A personal portfolio and travel planning website for Andrew 張勝評.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
